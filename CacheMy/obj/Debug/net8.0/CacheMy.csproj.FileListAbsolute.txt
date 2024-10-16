@@ -1,0 +1,15 @@
+D:\repos\CSharpTest\CacheMy\bin\Debug\net8.0\CacheMy.exe
+D:\repos\CSharpTest\CacheMy\bin\Debug\net8.0\CacheMy.deps.json
+D:\repos\CSharpTest\CacheMy\bin\Debug\net8.0\CacheMy.runtimeconfig.json
+D:\repos\CSharpTest\CacheMy\bin\Debug\net8.0\CacheMy.dll
+D:\repos\CSharpTest\CacheMy\bin\Debug\net8.0\CacheMy.pdb
+D:\repos\CSharpTest\CacheMy\obj\Debug\net8.0\CacheMy.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\CSharpTest\CacheMy\obj\Debug\net8.0\CacheMy.AssemblyInfoInputs.cache
+D:\repos\CSharpTest\CacheMy\obj\Debug\net8.0\CacheMy.AssemblyInfo.cs
+D:\repos\CSharpTest\CacheMy\obj\Debug\net8.0\CacheMy.csproj.CoreCompileInputs.cache
+D:\repos\CSharpTest\CacheMy\obj\Debug\net8.0\CacheMy.sourcelink.json
+D:\repos\CSharpTest\CacheMy\obj\Debug\net8.0\CacheMy.dll
+D:\repos\CSharpTest\CacheMy\obj\Debug\net8.0\refint\CacheMy.dll
+D:\repos\CSharpTest\CacheMy\obj\Debug\net8.0\CacheMy.pdb
+D:\repos\CSharpTest\CacheMy\obj\Debug\net8.0\CacheMy.genruntimeconfig.cache
+D:\repos\CSharpTest\CacheMy\obj\Debug\net8.0\ref\CacheMy.dll

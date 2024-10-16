@@ -1,0 +1,15 @@
+D:\repos\CSharpTest\GraphTraversal\bin\Debug\net9.0\Graph.exe
+D:\repos\CSharpTest\GraphTraversal\bin\Debug\net9.0\Graph.deps.json
+D:\repos\CSharpTest\GraphTraversal\bin\Debug\net9.0\Graph.runtimeconfig.json
+D:\repos\CSharpTest\GraphTraversal\bin\Debug\net9.0\Graph.dll
+D:\repos\CSharpTest\GraphTraversal\bin\Debug\net9.0\Graph.pdb
+D:\repos\CSharpTest\GraphTraversal\obj\Debug\net9.0\Graph.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\CSharpTest\GraphTraversal\obj\Debug\net9.0\Graph.AssemblyInfoInputs.cache
+D:\repos\CSharpTest\GraphTraversal\obj\Debug\net9.0\Graph.AssemblyInfo.cs
+D:\repos\CSharpTest\GraphTraversal\obj\Debug\net9.0\Graph.csproj.CoreCompileInputs.cache
+D:\repos\CSharpTest\GraphTraversal\obj\Debug\net9.0\Graph.sourcelink.json
+D:\repos\CSharpTest\GraphTraversal\obj\Debug\net9.0\Graph.dll
+D:\repos\CSharpTest\GraphTraversal\obj\Debug\net9.0\refint\Graph.dll
+D:\repos\CSharpTest\GraphTraversal\obj\Debug\net9.0\Graph.pdb
+D:\repos\CSharpTest\GraphTraversal\obj\Debug\net9.0\Graph.genruntimeconfig.cache
+D:\repos\CSharpTest\GraphTraversal\obj\Debug\net9.0\ref\Graph.dll

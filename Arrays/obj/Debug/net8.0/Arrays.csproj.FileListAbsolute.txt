@@ -1,0 +1,15 @@
+D:\repos\CSharpTest\Arrays\bin\Debug\net8.0\Arrays.exe
+D:\repos\CSharpTest\Arrays\bin\Debug\net8.0\Arrays.deps.json
+D:\repos\CSharpTest\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+D:\repos\CSharpTest\Arrays\bin\Debug\net8.0\Arrays.dll
+D:\repos\CSharpTest\Arrays\bin\Debug\net8.0\Arrays.pdb
+D:\repos\CSharpTest\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\CSharpTest\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+D:\repos\CSharpTest\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+D:\repos\CSharpTest\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+D:\repos\CSharpTest\Arrays\obj\Debug\net8.0\Arrays.sourcelink.json
+D:\repos\CSharpTest\Arrays\obj\Debug\net8.0\Arrays.dll
+D:\repos\CSharpTest\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+D:\repos\CSharpTest\Arrays\obj\Debug\net8.0\Arrays.pdb
+D:\repos\CSharpTest\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+D:\repos\CSharpTest\Arrays\obj\Debug\net8.0\ref\Arrays.dll

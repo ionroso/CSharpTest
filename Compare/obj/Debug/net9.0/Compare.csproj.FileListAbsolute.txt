@@ -1,0 +1,15 @@
+D:\repos\CSharpTest\Compare\obj\Debug\net9.0\Compare.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\CSharpTest\Compare\obj\Debug\net9.0\Compare.AssemblyInfoInputs.cache
+D:\repos\CSharpTest\Compare\obj\Debug\net9.0\Compare.AssemblyInfo.cs
+D:\repos\CSharpTest\Compare\obj\Debug\net9.0\Compare.csproj.CoreCompileInputs.cache
+D:\repos\CSharpTest\Compare\obj\Debug\net9.0\Compare.sourcelink.json
+D:\repos\CSharpTest\Compare\bin\Debug\net9.0\Compare.exe
+D:\repos\CSharpTest\Compare\bin\Debug\net9.0\Compare.deps.json
+D:\repos\CSharpTest\Compare\bin\Debug\net9.0\Compare.runtimeconfig.json
+D:\repos\CSharpTest\Compare\bin\Debug\net9.0\Compare.dll
+D:\repos\CSharpTest\Compare\bin\Debug\net9.0\Compare.pdb
+D:\repos\CSharpTest\Compare\obj\Debug\net9.0\Compare.dll
+D:\repos\CSharpTest\Compare\obj\Debug\net9.0\refint\Compare.dll
+D:\repos\CSharpTest\Compare\obj\Debug\net9.0\Compare.pdb
+D:\repos\CSharpTest\Compare\obj\Debug\net9.0\Compare.genruntimeconfig.cache
+D:\repos\CSharpTest\Compare\obj\Debug\net9.0\ref\Compare.dll

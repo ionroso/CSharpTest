@@ -1,0 +1,15 @@
+D:\repos\CSharpTest\GraphFindUnion\bin\Debug\net9.0\GraphFindUnion.exe
+D:\repos\CSharpTest\GraphFindUnion\bin\Debug\net9.0\GraphFindUnion.deps.json
+D:\repos\CSharpTest\GraphFindUnion\bin\Debug\net9.0\GraphFindUnion.runtimeconfig.json
+D:\repos\CSharpTest\GraphFindUnion\bin\Debug\net9.0\GraphFindUnion.dll
+D:\repos\CSharpTest\GraphFindUnion\bin\Debug\net9.0\GraphFindUnion.pdb
+D:\repos\CSharpTest\GraphFindUnion\obj\Debug\net9.0\GraphFindUnion.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\CSharpTest\GraphFindUnion\obj\Debug\net9.0\GraphFindUnion.AssemblyInfoInputs.cache
+D:\repos\CSharpTest\GraphFindUnion\obj\Debug\net9.0\GraphFindUnion.AssemblyInfo.cs
+D:\repos\CSharpTest\GraphFindUnion\obj\Debug\net9.0\GraphFindUnion.csproj.CoreCompileInputs.cache
+D:\repos\CSharpTest\GraphFindUnion\obj\Debug\net9.0\GraphFindUnion.sourcelink.json
+D:\repos\CSharpTest\GraphFindUnion\obj\Debug\net9.0\GraphFindUnion.dll
+D:\repos\CSharpTest\GraphFindUnion\obj\Debug\net9.0\refint\GraphFindUnion.dll
+D:\repos\CSharpTest\GraphFindUnion\obj\Debug\net9.0\GraphFindUnion.pdb
+D:\repos\CSharpTest\GraphFindUnion\obj\Debug\net9.0\GraphFindUnion.genruntimeconfig.cache
+D:\repos\CSharpTest\GraphFindUnion\obj\Debug\net9.0\ref\GraphFindUnion.dll

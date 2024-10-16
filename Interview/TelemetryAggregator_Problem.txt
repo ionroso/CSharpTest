@@ -1,0 +1,45 @@
+/**
+ * You are tasked with implementing a telemetry aggregation system for an online service. The service generates telemetry data in the form of events, where each event contains a timestamp,
+ event name, and associated data.
+ Your goal is to create a telemetry aggregation system that can efficiently aggregate and retrieve statistics from these events.
+ * The telemetry events have the following format:
+ * ```csharp
+ * public class TelemetryEvent
+ * {
+ *    public DateTime Timestamp { get; set; }
+ *    public string EventName { get; set; }
+ *    public Dictionary<string, string> Data { get; set; }
+ * }
+ * ```
+ * Your system should provide the following functionality:
+ * 1. Insert Event: Implement a method to insert a telemetry event into the system.
+ *    ```csharp
+ *    public class TelemetryAggregator
+ *    {
+ *        public void InsertEvent(TelemetryEvent telemetryEvent)
+ *        {
+ *            // Implementation here
+ *        }
+ *    }
+ *    ```
+ * 2. Get Event Count: Implement a method to retrieve the count of events for a given event name within a specified time range.
+ *    ```csharp
+ *    public class TelemetryAggregator
+ *    {
+ *        public int GetEventCount(string eventName, DateTime startTime, DateTime endTime)
+ *        {
+ *            // Implementation here
+ *        }
+ *    }
+ *    ```
+ * 3. Get Unique Users: Implement a method to retrieve the count of unique users who have generated events within a specified time range.
+ *    ```csharp
+ *    public class TelemetryAggregator
+ *    {
+ *        public int GetUniqueUsersCount(DateTime startTime, DateTime endTime)
+ *        {
+ *            // Implementation here
+ *        }
+ *    }
+ *    ```
+ */

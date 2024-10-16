@@ -1,0 +1,15 @@
+D:\repos\CSharpTest\GraphCycleDetection\bin\Debug\net9.0\GraphCycleDetection.exe
+D:\repos\CSharpTest\GraphCycleDetection\bin\Debug\net9.0\GraphCycleDetection.deps.json
+D:\repos\CSharpTest\GraphCycleDetection\bin\Debug\net9.0\GraphCycleDetection.runtimeconfig.json
+D:\repos\CSharpTest\GraphCycleDetection\bin\Debug\net9.0\GraphCycleDetection.dll
+D:\repos\CSharpTest\GraphCycleDetection\bin\Debug\net9.0\GraphCycleDetection.pdb
+D:\repos\CSharpTest\GraphCycleDetection\obj\Debug\net9.0\GraphCycleDetection.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\CSharpTest\GraphCycleDetection\obj\Debug\net9.0\GraphCycleDetection.AssemblyInfoInputs.cache
+D:\repos\CSharpTest\GraphCycleDetection\obj\Debug\net9.0\GraphCycleDetection.AssemblyInfo.cs
+D:\repos\CSharpTest\GraphCycleDetection\obj\Debug\net9.0\GraphCycleDetection.csproj.CoreCompileInputs.cache
+D:\repos\CSharpTest\GraphCycleDetection\obj\Debug\net9.0\GraphCycleDetection.sourcelink.json
+D:\repos\CSharpTest\GraphCycleDetection\obj\Debug\net9.0\GraphCycleDetection.dll
+D:\repos\CSharpTest\GraphCycleDetection\obj\Debug\net9.0\refint\GraphCycleDetection.dll
+D:\repos\CSharpTest\GraphCycleDetection\obj\Debug\net9.0\GraphCycleDetection.pdb
+D:\repos\CSharpTest\GraphCycleDetection\obj\Debug\net9.0\GraphCycleDetection.genruntimeconfig.cache
+D:\repos\CSharpTest\GraphCycleDetection\obj\Debug\net9.0\ref\GraphCycleDetection.dll

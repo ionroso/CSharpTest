@@ -1,0 +1,15 @@
+D:\repos\CSharpTest\Range\bin\Debug\net8.0\Range.exe
+D:\repos\CSharpTest\Range\bin\Debug\net8.0\Range.deps.json
+D:\repos\CSharpTest\Range\bin\Debug\net8.0\Range.runtimeconfig.json
+D:\repos\CSharpTest\Range\bin\Debug\net8.0\Range.dll
+D:\repos\CSharpTest\Range\bin\Debug\net8.0\Range.pdb
+D:\repos\CSharpTest\Range\obj\Debug\net8.0\Range.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\CSharpTest\Range\obj\Debug\net8.0\Range.AssemblyInfoInputs.cache
+D:\repos\CSharpTest\Range\obj\Debug\net8.0\Range.AssemblyInfo.cs
+D:\repos\CSharpTest\Range\obj\Debug\net8.0\Range.csproj.CoreCompileInputs.cache
+D:\repos\CSharpTest\Range\obj\Debug\net8.0\Range.sourcelink.json
+D:\repos\CSharpTest\Range\obj\Debug\net8.0\Range.dll
+D:\repos\CSharpTest\Range\obj\Debug\net8.0\refint\Range.dll
+D:\repos\CSharpTest\Range\obj\Debug\net8.0\Range.pdb
+D:\repos\CSharpTest\Range\obj\Debug\net8.0\Range.genruntimeconfig.cache
+D:\repos\CSharpTest\Range\obj\Debug\net8.0\ref\Range.dll

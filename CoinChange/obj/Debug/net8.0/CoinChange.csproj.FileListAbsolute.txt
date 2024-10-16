@@ -1,0 +1,15 @@
+D:\repos\CSharpTest\CoinChange\bin\Debug\net8.0\CoinChange.exe
+D:\repos\CSharpTest\CoinChange\bin\Debug\net8.0\CoinChange.deps.json
+D:\repos\CSharpTest\CoinChange\bin\Debug\net8.0\CoinChange.runtimeconfig.json
+D:\repos\CSharpTest\CoinChange\bin\Debug\net8.0\CoinChange.dll
+D:\repos\CSharpTest\CoinChange\bin\Debug\net8.0\CoinChange.pdb
+D:\repos\CSharpTest\CoinChange\obj\Debug\net8.0\CoinChange.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\CSharpTest\CoinChange\obj\Debug\net8.0\CoinChange.AssemblyInfoInputs.cache
+D:\repos\CSharpTest\CoinChange\obj\Debug\net8.0\CoinChange.AssemblyInfo.cs
+D:\repos\CSharpTest\CoinChange\obj\Debug\net8.0\CoinChange.csproj.CoreCompileInputs.cache
+D:\repos\CSharpTest\CoinChange\obj\Debug\net8.0\CoinChange.sourcelink.json
+D:\repos\CSharpTest\CoinChange\obj\Debug\net8.0\CoinChange.dll
+D:\repos\CSharpTest\CoinChange\obj\Debug\net8.0\refint\CoinChange.dll
+D:\repos\CSharpTest\CoinChange\obj\Debug\net8.0\CoinChange.pdb
+D:\repos\CSharpTest\CoinChange\obj\Debug\net8.0\CoinChange.genruntimeconfig.cache
+D:\repos\CSharpTest\CoinChange\obj\Debug\net8.0\ref\CoinChange.dll

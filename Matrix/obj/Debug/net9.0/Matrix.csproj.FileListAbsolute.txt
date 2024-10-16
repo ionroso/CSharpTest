@@ -1,0 +1,15 @@
+D:\repos\CSharpTest\Matrix\bin\Debug\net9.0\Matrix.exe
+D:\repos\CSharpTest\Matrix\bin\Debug\net9.0\Matrix.deps.json
+D:\repos\CSharpTest\Matrix\bin\Debug\net9.0\Matrix.runtimeconfig.json
+D:\repos\CSharpTest\Matrix\bin\Debug\net9.0\Matrix.dll
+D:\repos\CSharpTest\Matrix\bin\Debug\net9.0\Matrix.pdb
+D:\repos\CSharpTest\Matrix\obj\Debug\net9.0\Matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\CSharpTest\Matrix\obj\Debug\net9.0\Matrix.AssemblyInfoInputs.cache
+D:\repos\CSharpTest\Matrix\obj\Debug\net9.0\Matrix.AssemblyInfo.cs
+D:\repos\CSharpTest\Matrix\obj\Debug\net9.0\Matrix.csproj.CoreCompileInputs.cache
+D:\repos\CSharpTest\Matrix\obj\Debug\net9.0\Matrix.sourcelink.json
+D:\repos\CSharpTest\Matrix\obj\Debug\net9.0\Matrix.dll
+D:\repos\CSharpTest\Matrix\obj\Debug\net9.0\refint\Matrix.dll
+D:\repos\CSharpTest\Matrix\obj\Debug\net9.0\Matrix.pdb
+D:\repos\CSharpTest\Matrix\obj\Debug\net9.0\Matrix.genruntimeconfig.cache
+D:\repos\CSharpTest\Matrix\obj\Debug\net9.0\ref\Matrix.dll

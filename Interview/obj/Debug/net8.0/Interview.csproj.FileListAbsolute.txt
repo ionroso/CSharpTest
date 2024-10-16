@@ -1,0 +1,15 @@
+D:\repos\CSharpTest\Interview\bin\Debug\net8.0\Interview.exe
+D:\repos\CSharpTest\Interview\bin\Debug\net8.0\Interview.deps.json
+D:\repos\CSharpTest\Interview\bin\Debug\net8.0\Interview.runtimeconfig.json
+D:\repos\CSharpTest\Interview\bin\Debug\net8.0\Interview.dll
+D:\repos\CSharpTest\Interview\bin\Debug\net8.0\Interview.pdb
+D:\repos\CSharpTest\Interview\obj\Debug\net8.0\Interview.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\CSharpTest\Interview\obj\Debug\net8.0\Interview.AssemblyInfoInputs.cache
+D:\repos\CSharpTest\Interview\obj\Debug\net8.0\Interview.AssemblyInfo.cs
+D:\repos\CSharpTest\Interview\obj\Debug\net8.0\Interview.csproj.CoreCompileInputs.cache
+D:\repos\CSharpTest\Interview\obj\Debug\net8.0\Interview.sourcelink.json
+D:\repos\CSharpTest\Interview\obj\Debug\net8.0\Interview.dll
+D:\repos\CSharpTest\Interview\obj\Debug\net8.0\refint\Interview.dll
+D:\repos\CSharpTest\Interview\obj\Debug\net8.0\Interview.pdb
+D:\repos\CSharpTest\Interview\obj\Debug\net8.0\Interview.genruntimeconfig.cache
+D:\repos\CSharpTest\Interview\obj\Debug\net8.0\ref\Interview.dll

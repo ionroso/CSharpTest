@@ -1,0 +1,5 @@
+D:\repos\CSharpTest\GraphTopologicalSorting\obj\Debug\net9.0\GraphTopologicalSorting.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\CSharpTest\GraphTopologicalSorting\obj\Debug\net9.0\GraphTopologicalSorting.AssemblyInfoInputs.cache
+D:\repos\CSharpTest\GraphTopologicalSorting\obj\Debug\net9.0\GraphTopologicalSorting.AssemblyInfo.cs
+D:\repos\CSharpTest\GraphTopologicalSorting\obj\Debug\net9.0\GraphTopologicalSorting.csproj.CoreCompileInputs.cache
+D:\repos\CSharpTest\GraphTopologicalSorting\obj\Debug\net9.0\GraphTopologicalSorting.sourcelink.json

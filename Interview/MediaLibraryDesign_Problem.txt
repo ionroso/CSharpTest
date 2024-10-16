@@ -1,0 +1,38 @@
+﻿package failed;
+
+/* Microsoft
+CRUD (Create, Read, Update, Delete) operations for different types of media, including videos, books, songs, and games. Each media type has specific attributes as described below.
+The library should also support priority functionality and provide methods for querying the media collection by priority.
+
+Media Types and Attributes:
+
+Video
+{
+    id (unique identifier);
+    title;
+    director;
+    release year;
+}
+
+Book
+{
+    id (unique identifier);
+    title;
+    author;
+}
+
+Functional Requirements:
+    1. Implement CRUD operations for each media type:
+        Create a new media item with the given attributes.
+        Read an existing media item by its id.
+        Update an existing media item's attributes
+        Delete an existing media item by its id.
+    2. Keep track of recently viewed items by weighting them higher in priority.
+    3. Implement a method to retrieve the top-priority videos by year:
+        - The method should accept a year as input and return a list of videos released in that year, sorted by their priority in descending order.
+    4. Implement a method to search for media by title:
+        - The method should accept a string as input and return a list of all media items that contain the given string in their title "Star" would return "Star Wars"
+ */
+
+public class MediaManagerLibrary {
+}

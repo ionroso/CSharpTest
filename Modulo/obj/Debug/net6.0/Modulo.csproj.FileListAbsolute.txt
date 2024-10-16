@@ -1,0 +1,15 @@
+D:\repos\CSharpTest\Modulo\bin\Debug\net6.0\Modulo.exe
+D:\repos\CSharpTest\Modulo\bin\Debug\net6.0\Modulo.deps.json
+D:\repos\CSharpTest\Modulo\bin\Debug\net6.0\Modulo.runtimeconfig.json
+D:\repos\CSharpTest\Modulo\bin\Debug\net6.0\Modulo.dll
+D:\repos\CSharpTest\Modulo\bin\Debug\net6.0\Modulo.pdb
+D:\repos\CSharpTest\Modulo\obj\Debug\net6.0\Modulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\CSharpTest\Modulo\obj\Debug\net6.0\Modulo.AssemblyInfoInputs.cache
+D:\repos\CSharpTest\Modulo\obj\Debug\net6.0\Modulo.AssemblyInfo.cs
+D:\repos\CSharpTest\Modulo\obj\Debug\net6.0\Modulo.csproj.CoreCompileInputs.cache
+D:\repos\CSharpTest\Modulo\obj\Debug\net6.0\Modulo.sourcelink.json
+D:\repos\CSharpTest\Modulo\obj\Debug\net6.0\Modulo.dll
+D:\repos\CSharpTest\Modulo\obj\Debug\net6.0\refint\Modulo.dll
+D:\repos\CSharpTest\Modulo\obj\Debug\net6.0\Modulo.pdb
+D:\repos\CSharpTest\Modulo\obj\Debug\net6.0\Modulo.genruntimeconfig.cache
+D:\repos\CSharpTest\Modulo\obj\Debug\net6.0\ref\Modulo.dll

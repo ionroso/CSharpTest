@@ -1,0 +1,15 @@
+D:\repos\CSharpTest\Practice\bin\Debug\net9.0\Practice.exe
+D:\repos\CSharpTest\Practice\bin\Debug\net9.0\Practice.deps.json
+D:\repos\CSharpTest\Practice\bin\Debug\net9.0\Practice.runtimeconfig.json
+D:\repos\CSharpTest\Practice\bin\Debug\net9.0\Practice.dll
+D:\repos\CSharpTest\Practice\bin\Debug\net9.0\Practice.pdb
+D:\repos\CSharpTest\Practice\obj\Debug\net9.0\Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\CSharpTest\Practice\obj\Debug\net9.0\Practice.AssemblyInfoInputs.cache
+D:\repos\CSharpTest\Practice\obj\Debug\net9.0\Practice.AssemblyInfo.cs
+D:\repos\CSharpTest\Practice\obj\Debug\net9.0\Practice.csproj.CoreCompileInputs.cache
+D:\repos\CSharpTest\Practice\obj\Debug\net9.0\Practice.sourcelink.json
+D:\repos\CSharpTest\Practice\obj\Debug\net9.0\Practice.dll
+D:\repos\CSharpTest\Practice\obj\Debug\net9.0\refint\Practice.dll
+D:\repos\CSharpTest\Practice\obj\Debug\net9.0\Practice.pdb
+D:\repos\CSharpTest\Practice\obj\Debug\net9.0\Practice.genruntimeconfig.cache
+D:\repos\CSharpTest\Practice\obj\Debug\net9.0\ref\Practice.dll

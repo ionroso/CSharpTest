@@ -1,0 +1,4 @@
+﻿amazon like site where a customer can have max N comments per week about vendor, vendor can revise M comments per week per customer
+
+Solution:
+https://leetcode.com/problems/logger-rate-limiter/description/ ?
