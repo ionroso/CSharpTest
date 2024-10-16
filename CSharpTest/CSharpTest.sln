@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpTest", "CSharpTest.csproj", "{0472DE5E-B3EA-48E7-880F-D98E10AB563E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQTest", "..\LINQTest\LINQTest.csproj", "{857F39B6-E590-4183-9074-EF057C6E098D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0472DE5E-B3EA-48E7-880F-D98E10AB563E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0472DE5E-B3EA-48E7-880F-D98E10AB563E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0472DE5E-B3EA-48E7-880F-D98E10AB563E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0472DE5E-B3EA-48E7-880F-D98E10AB563E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{857F39B6-E590-4183-9074-EF057C6E098D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{857F39B6-E590-4183-9074-EF057C6E098D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{857F39B6-E590-4183-9074-EF057C6E098D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{857F39B6-E590-4183-9074-EF057C6E098D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC906D50-BBBA-4BF1-BFFE-F2274A82D3E1}
+	EndGlobalSection
+EndGlobal
