@@ -3,14 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using static Interview.Microsoft_TelemetyAggregator_brute_force;
+using static Interview.TelemetryAggregator_BruteForce;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 using System.Xml;
 using System.Numerics;
 
 namespace Interview
 {
-    public class Microsoft_TelemetyAggregator_brute_force
+    public class TelemetryAggregator_BruteForce
     {
         public void Test()
         {

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Interview
 {
-    internal class Micorosft_MediaManagerLibrary
+    internal class MediaLibraryDesign
     {
     }
 }

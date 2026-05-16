@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Design
 {
-/* Microsoft
+/* Media Library Design Challenge
 CRUD (Create, Read, Update, Delete) operations for different types of media, including videos, books, songs, and games. Each media type has specific attributes as described below.
 The library should also support priority functionality and provide methods for querying the media collection by priority.
 
