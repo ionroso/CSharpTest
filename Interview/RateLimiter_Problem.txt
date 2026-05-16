@@ -1,4 +1,4 @@
-﻿amazon like site where a customer can have max N comments per week about vendor, vendor can revise M comments per week per customer
+﻿Design a rate limiter system where users can perform limited actions per time period, and administrators can manage action limits.
 
 Solution:
-https://leetcode.com/problems/logger-rate-limiter/description/ ?
+https://leetcode.com/problems/logger-rate-limiter/description/
