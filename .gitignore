@@ -1,51 +1,24 @@
 ﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+# Build artifacts
 ################################################################################
+bin/
+obj/
+.vs/
 
-/CSharpTest/.vs
-/CSharpTest/bin/Debug/net8.0
-/CSharpTest/obj
-/LINQTest/bin/Debug/net8.0
-/LINQTest/obj
-/BinarySearch/bin/Debug/net8.0
-/BinarySearch/obj/Debug/net8.0
-/BinarySearch/obj
-/FuncPredicateActionExpression/obj
-/KthProblems/bin/Debug/net8.0
-/KthProblems/obj
-/PLINQTest/obj/Debug/net8.0
-/PriorityQueue/bin/Debug/net8.0
-/PriorityQueue/obj
-/Trees/bin/Debug/net8.0
-/Trees/obj
-/PLINQTest/obj
-/Batching/bin/Debug/net8.0
-/Batching/obj
-/Collection/bin/Debug/net8.0
-/Collection/obj
-/Design/bin/Debug/net8.0
-/Design/obj
-/FileProj/bin/Debug/net8.0
-/FileProj/obj
-/HttpClient/bin/Debug/net8.0
-/HttpClient/obj
-/JumpProblems/bin/Debug/net8.0
-/JumpProblems/obj
-/Parse/bin/Debug/net8.0
-/Parse/obj
-/Patterns/bin/Debug/net8.0
-/Patterns/obj
-/PermutationsCombinationBacktracking/bin/Debug/net8.0
-/PermutationsCombinationBacktracking/obj
-/Search/bin/Debug/net8.0
-/Search/obj
-/SlidingWindow/bin/Debug/net8.0
-/SlidingWindow/obj
-/Sort/bin/Debug/net8.0
-/Sort/obj
-/SortArrayByIncreasingFrequency/bin/Debug/net8.0
-/SortArrayByIncreasingFrequency/obj
-/TwoPointers/bin/Debug/net8.0
-/TwoPointers/obj
-/WebApplication1/bin/Debug/net8.0
-/WebApplication1/obj
+################################################################################
+# Visual Studio
+################################################################################
+*.user
+*.suo
+
+################################################################################
+# IDE
+################################################################################
+.vscode/
+.idea/
+
+################################################################################
+# OS
+################################################################################
+.DS_Store
+Thumbs.db
